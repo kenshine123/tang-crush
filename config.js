@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Silk à!',
-    introDesc: `Anh tuy không phải là chiếc lò vi sóng, nhưng anh đủ sức để hâm nóng trái tim em ;) `,
+    introDesc: `Anh tuy không phải là chiếc lò vi sóng, nhưng anh đủ sức để hâm nóng trái tim em (làm chơi thôi) ;) `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
